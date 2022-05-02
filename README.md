@@ -2,9 +2,6 @@
 피파온라인4 전적검색 사이트 v2 😄
 
 <div align=center>
-
-  [![CONTRIBUTORS](https://img.shields.io/badge/contributors-2-green.svg?style=flat-square)](https://github.com/in-kim/FIFA-DY-2/invitations)
-
   <a href="https://github.com/in-kim/FIFA-DY-2/invitations">
     <img src="https://contrib.rocks/image?repo=in-kim/FIFA-DY-2" />
   </a> 
