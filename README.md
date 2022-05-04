@@ -3,7 +3,7 @@
 
 <div align=center>
   <a href="https://github.com/in-kim/FIFA-DY-2/invitations">
-    <img src="https://contrib.rocks/image?repo=in-kim/FIFA-DY-2" />
+    <img src="https://contrib.rocks/image?repo=GSD-Team/QWGG-FRONT" />
   </a> 
 </div>
 
